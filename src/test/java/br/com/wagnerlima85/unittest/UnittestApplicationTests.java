@@ -29,7 +29,6 @@ class UnittestApplicationTests {
 	@Autowired
     ApplicationContext context;
 
-
 	@Test
 	void testCreateComplexObject() {
 
